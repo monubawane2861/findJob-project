@@ -17,20 +17,20 @@ const Jobservice = ()=> {
            <div className='bg-top-backside-color'>
 
                    <div className='box'>
-                      <img src="public/image/resumeboy.png"  />
+                      <img src="resumeboy.png"  />
 
                         <h4 style={{textAlign:"center"}}>Highlight your peofile</h4>
                         <p style={{textAlign:"center"}}>Your profile is given a higher rank when recruiters search CVs of active candidates in  database</p>
                    </div>
                    <div className='box'>
 
-                    <img src="public/image/cartoon boy.png"  />
+                    <img src="cartoon boy.png"  />
                     <h4 style={{textAlign:"center"}}>Highlight your peofile</h4>
                     <p style={{textAlign:"center"}}>Your profile is given a higher rank when recruiters search CVs of active candidates in  database</p>
                    </div>
                    <div className='box '>
 
-                    <img src="public/image/calgirl.png" width="270px" />
+                    <img src="calgirl.png" width="270px" />
                     <h4 style={{textAlign:"center"}}>Highlight your peofile</h4>
                     <p style={{textAlign:"center"}}>Your profile is given a higher rank when recruiters search CVs of active candidates in  database</p>
                    </div>
@@ -44,7 +44,7 @@ const Jobservice = ()=> {
 
                       <div className='img-search'> 
 
-                        <img src="public/image/seachpng.png"  />
+                        <img src="seachpng.png"  />
                       </div>
 
                       <div className='heading-parag'>
