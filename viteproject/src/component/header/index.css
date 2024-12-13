@@ -8,9 +8,9 @@
   padding: 10px;
   /* background-color: rgb(243, 222, 209); */
   font-family: "Edu AU VIC WA NT Hand", cursive;
+  box-shadow: -4px 11px 12px -10px rgba(0,0,0,0.75);
+
 }
-
-
 .lap-view{
 
   display:none;
@@ -95,7 +95,8 @@
     height: 10%;
     padding: 10px;
     background-color: rgb(243, 222, 209);
-    /* font-family: "Edu AU VIC WA NT Hand", cursive; */
+    box-shadow: -4px 11px 12px -10px rgba(0,0,0,0.75);
+            /* font-family: "Edu AU VIC WA NT Hand", cursive; */
   }
 
   .lap-view{

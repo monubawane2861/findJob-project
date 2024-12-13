@@ -3,7 +3,7 @@ import './index.css'
 import Header from '../header';
 import { IoCallOutline } from "react-icons/io5";
 import { Link } from 'react-router-dom';
-
+import Footer from '../footer';
 
 const Jobservice = ()=> {
   return (
@@ -62,7 +62,7 @@ const Jobservice = ()=> {
       </div>
 
 
-      <div className='second-service-page container'>
+      <div className='second-service-page container col-6'>
 
 
                <div className='cl-info-cont'>
@@ -85,7 +85,7 @@ const Jobservice = ()=> {
 
                <div className='contact-cont'>
 
-                     <div className='contact-cont-cont'>
+                     <div className='contact-cont-cont col-6'>
 
                              <h3>Contact us</h3>
                           
@@ -114,6 +114,10 @@ const Jobservice = ()=> {
 
 
         </div>
+
+        <br /><br /><br /><br /><br /><br />
+
+        <Footer/>
 
 
     </>

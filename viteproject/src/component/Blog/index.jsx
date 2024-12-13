@@ -1,5 +1,6 @@
 import './index.css'
 import Header from '../header';
+import Footer from '../footer';
 
 
 
@@ -140,6 +141,7 @@ const Blog = ()=> {
 
            </div>
        </div>
+       <Footer/>
    </>
   )
 }
