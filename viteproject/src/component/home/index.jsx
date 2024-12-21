@@ -10,25 +10,26 @@ const Home = () => {
 
     <>
 
-    <Header />
-
+        
       <div className='home-cont'>
-              
+
+      <Header />
+
               <div className='home-bg-box-cont'>
 
                 <div className='head-para'>
               <h1 className='home-heading' style={{ color: "black" }}> Find the right Job for your life</h1>
               <p style={{ color: "black" }}>millions of people serching for jobs,salary, information, company review find <br /> job that fits your ability and your potential</p>
 
-              <Link to="/jobs">
+              {/* <Link to="/jobs">
              <button className='btn home-btn findjobbtn'>Find Jobs</button>
-           </Link>
+           </Link> */}
               </div>
 
              
-
+              
               <div className='home-img-girl'>
-                <img src="image.png" width={"100%"}/>
+                <img src="image/image.png"/>
               </div>
               </div>
           
